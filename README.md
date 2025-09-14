@@ -2,7 +2,7 @@
 This is using GitHub and GitHub Desktop to upload the document !!! ~~~🐺
 
 # 使用 GitHub及GitHub Desktop，上傳文件
-**<font size ="12">使用 GitHub及GitHub Desktop，上傳文件</font>**
+**<font size ="15">使用 GitHub及GitHub Desktop，上傳文件</font>**
 Use GitHub and GitHub Desktop to upload the document.
 
 ![image-20250322124052903](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322124052903.png) 
